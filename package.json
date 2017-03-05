@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Erody/fcc-request-header-parser-microservice/issues"
   },
-  "homepage": "https://github.com/Erody/fcc-request-header-parser-microservice#readme"
+  "homepage": "https://github.com/Erody/fcc-request-header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
 }
